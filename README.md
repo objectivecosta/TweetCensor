@@ -1,6 +1,7 @@
 Create a file named `credentials.py`, as follows
 
-```import twitter
+```
+import twitter
 
 api = twitter.Api(consumer_key='<consumer_key>',
                   consumer_secret='<consumer_secret>',
