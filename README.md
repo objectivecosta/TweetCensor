@@ -9,7 +9,7 @@ api = twitter.Api(consumer_key='<consumer_key>',
                   access_token_secret='<access_token_secret>')
 ```
                       
-Download your Twitter archive and put the tweets.csv file in the root of the project.
+Download your Twitter archive and put the ~tweets.csv~ tweet.js file in the root of the project.
 
 Select words to censor as follows:
 
